@@ -150,6 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/lib/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigvideo.bin \
     vendor/samsung/dm1q/proprietary/vendor/lib/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigvideolite.bin \
     vendor/samsung/dm1q/proprietary/vendor/lib/libthirdparty_zoomtranslator_imp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthirdparty_zoomtranslator_imp.so \
+    vendor/samsung/dm1q/proprietary/vendor/lib64/SWPD_libTsAf_3K1_TELE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/SWPD_libTsAf_3K1_TELE.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/camera/com.samsung.ois.mcu_stm32g.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.ois.mcu_stm32g.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin \
     vendor/samsung/dm1q/proprietary/vendor/lib64/camera/com.samsung.sensormodule.12_lsi_s5k3lu_full.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.sensormodule.12_lsi_s5k3lu_full.bin \
@@ -269,6 +270,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.qcom.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/com.qti.chi.offline.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.offline.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.override.so \
+    vendor/samsung/dm1q/proprietary/vendor/lib64/libTsAf_DM123Q.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libTsAf_DM123Q.so \
+    vendor/samsung/dm1q/proprietary/vendor/lib64/libTsAwbFront_DM2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libTsAwbFront_DM2.so \
+    vendor/samsung/dm1q/proprietary/vendor/lib64/libTsAwb_DM2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libTsAwb_DM2.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/libcamerapostproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamerapostproc.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/libcamxcommonutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamxcommonutils.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamxexternalformatutils.so \
