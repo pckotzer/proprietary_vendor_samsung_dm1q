@@ -13,6 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/etc/display/qdcm_calib_data_DM1_LX83118_CM002.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_DM1_LX83118_CM002.json \
     vendor/samsung/dm1q/proprietary/vendor/etc/display/qdcm_calib_data_DM1_S6E3FAC_AMB606AW01.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_DM1_S6E3FAC_AMB606AW01.json \
     vendor/samsung/dm1q/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
+    vendor/samsung/dm1q/proprietary/vendor/etc/init/init.vendor.onebinary.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.onebinary.rc \
     vendor/samsung/dm1q/proprietary/vendor/etc/init/init.vendor.rilcommon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilcommon.rc \
     vendor/samsung/dm1q/proprietary/vendor/etc/init/vendor.samsung.rilchip.qcom.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.rilchip.qcom.rc \
     vendor/samsung/dm1q/proprietary/vendor/etc/nfc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/nfc/libnfc-nxp_RF.conf \
