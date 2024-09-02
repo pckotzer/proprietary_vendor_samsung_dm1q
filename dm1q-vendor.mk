@@ -25,19 +25,28 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/etc/sensors/config/kailua_stk3a9x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_stk3a9x_0.json \
     vendor/samsung/dm1q/proprietary/vendor/etc/wifi/qca6490/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/qca6490/WCNSS_qcom_cfg.ini \
     vendor/samsung/dm1q/proprietary/vendor/firmware/CAMERA_ICP.b20:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.b20 \
+    vendor/samsung/dm1q/proprietary/odm/firmware/CAMERA_ICP.b20:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.b20 \
     vendor/samsung/dm1q/proprietary/vendor/firmware/CAMERA_ICP.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mbn \
+    vendor/samsung/dm1q/proprietary/odm/firmware/CAMERA_ICP.mbn:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.mbn \
     vendor/samsung/dm1q/proprietary/vendor/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.mdt \
+    vendor/samsung/dm1q/proprietary/odm/firmware/CAMERA_ICP.mdt:$(TARGET_COPY_OUT_ODM)/firmware/CAMERA_ICP.mdt \
     vendor/samsung/dm1q/proprietary/vendor/firmware/DM1_LX83118_CM002.dat:$(TARGET_COPY_OUT_VENDOR)/firmware/DM1_LX83118_CM002.dat \
     vendor/samsung/dm1q/proprietary/vendor/firmware/DM1_S6E3FAC_AMB606AW01.dat:$(TARGET_COPY_OUT_VENDOR)/firmware/DM1_S6E3FAC_AMB606AW01.dat \
     vendor/samsung/dm1q/proprietary/vendor/firmware/Data.msc:$(TARGET_COPY_OUT_VENDOR)/firmware/Data.msc \
     vendor/samsung/dm1q/proprietary/vendor/firmware/a740_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.b02 \
+    vendor/samsung/dm1q/proprietary/odm/firmware/a740_zap.b02:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.b02 \
     vendor/samsung/dm1q/proprietary/vendor/firmware/a740_zap.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.mbn \
+    vendor/samsung/dm1q/proprietary/odm/firmware/a740_zap.mbn:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.mbn \
     vendor/samsung/dm1q/proprietary/vendor/firmware/a740_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a740_zap.mdt \
+    vendor/samsung/dm1q/proprietary/odm/firmware/a740_zap.mdt:$(TARGET_COPY_OUT_ODM)/firmware/a740_zap.mdt \
     vendor/samsung/dm1q/proprietary/vendor/firmware/bt_nvm_loading.xml:$(TARGET_COPY_OUT_VENDOR)/firmware/bt_nvm_loading.xml \
     vendor/samsung/dm1q/proprietary/vendor/firmware/bt_nvm_loading_2nd.xml:$(TARGET_COPY_OUT_VENDOR)/firmware/bt_nvm_loading_2nd.xml \
     vendor/samsung/dm1q/proprietary/vendor/firmware/evass.b19:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.b19 \
+    vendor/samsung/dm1q/proprietary/odm/firmware/evass.b19:$(TARGET_COPY_OUT_ODM)/firmware/evass.b19 \
     vendor/samsung/dm1q/proprietary/vendor/firmware/evass.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mbn \
+    vendor/samsung/dm1q/proprietary/odm/firmware/evass.mbn:$(TARGET_COPY_OUT_ODM)/firmware/evass.mbn \
     vendor/samsung/dm1q/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
+    vendor/samsung/dm1q/proprietary/odm/firmware/evass.mdt:$(TARGET_COPY_OUT_ODM)/firmware/evass.mdt \
     vendor/samsung/dm1q/proprietary/vendor/firmware/hpbtfw21.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/hpbtfw21.tlv \
     vendor/samsung/dm1q/proprietary/vendor/firmware/hpnv21.b9a:$(TARGET_COPY_OUT_VENDOR)/firmware/hpnv21.b9a \
     vendor/samsung/dm1q/proprietary/vendor/firmware/hpnv21.b9b:$(TARGET_COPY_OUT_VENDOR)/firmware/hpnv21.b9b \
@@ -67,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/firmware/tsp_stm/fts2ba61y_dm1q.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_stm/fts2ba61y_dm1q.bin \
     vendor/samsung/dm1q/proprietary/vendor/firmware/tsp_stm/fts2ba61y_dm1q_boe.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_stm/fts2ba61y_dm1q_boe.bin \
     vendor/samsung/dm1q/proprietary/vendor/firmware/vpu30_4v.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu30_4v.mbn \
+    vendor/samsung/dm1q/proprietary/odm/firmware/vpu30_4v.mbn:$(TARGET_COPY_OUT_ODM)/firmware/vpu30_4v.mbn \
     vendor/samsung/dm1q/proprietary/vendor/lib64/SWPD_libTsAf_3K1_TELE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/SWPD_libTsAf_3K1_TELE.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/camera/com.samsung.ois.mcu_stm32g.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.ois.mcu_stm32g.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.samsung.sensormodule.0_lsi_s5kgn3.bin \
