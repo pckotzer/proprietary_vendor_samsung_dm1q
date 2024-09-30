@@ -185,6 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/dm1q/proprietary/vendor/lib64/com.qualcomm.mcx.policy.mfl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.mcx.policy.mfl.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/com.qualcomm.mcx.policy.xr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.mcx.policy.xr.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.mcx.usecase.extension.so \
+    vendor/samsung/dm1q/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/camera.qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.qcom.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/com.qti.chi.offline.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.offline.so \
     vendor/samsung/dm1q/proprietary/vendor/lib64/hw/com.qti.chi.override.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qti.chi.override.so \
